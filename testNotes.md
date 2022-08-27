@@ -1,9 +1,9 @@
 Test Markdown file for notes with CTF Flag headers
 ===================================================
-## Programmer Name
+# Programmer Name
 ## Box Name
 
-## Description
+# Description
 The script will read through the file and search for the root and user flag headers to insert the flags passed to the script. The majority of the document here is purely to have a file with the types of things that would be in a markdown note file used for CTF. There are ways that the script can be "tricked" or fooled into doing weird things if you try, but works for the most part.
 
     Layout / Text notes in use for the indention.
