@@ -25,7 +25,7 @@ This file is an example of modifying a file based on searched strings on line it
     Utilizing a lambda function for a inline clamping function. This is to control min and max
     for ranges to keep the values in range for the end of the file.
 
-### Files relatd to this file
+### Files related to this file
 These are the files directly related to or required by fileInsertTest.py
 
     testNotes.md
