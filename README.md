@@ -1,7 +1,7 @@
 Python file manipulation
 ========================
 
-# Purpose of this repo
+## Purpose of this repo
 This repo will have python examples for file manipulation. It will most likely be a mess of random scripts and examples I wish to keep track of.
 
 ## File: fileInsertTest.py
@@ -29,3 +29,13 @@ This file is an example of modifying a file based on searched strings on line it
 These are the files directly related to or required by fileInsertTest.py
 
     testNotes.md
+
+## File: panagramCheck.py
+Script containing some fun panagrams as well as code to check if strings are panagrams.
+
+### Topics in this file
+#### List comprehension
+    This also uses list comprehension to convert the strings to a "set" of characters.
+
+#### set
+    This is a good example for using sets and checking the difference between two sets. As well as sorting and converting them to other useful formats.
