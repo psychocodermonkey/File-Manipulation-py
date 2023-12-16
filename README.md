@@ -35,7 +35,8 @@ Script containing some fun panagrams as well as code to check if strings are pan
 
 ### Topics in this file
 #### List comprehension
-    This also uses list comprehension to convert the strings to a "set" of characters.
+    List comprehension used to split out the characters into the sets.
 
 #### set
-    This is a good example for using sets and checking the difference between two sets. As well as sorting and converting them to other useful formats.
+    Set is being used to eliminate nested loops to look through the string to check
+    that all characters in the string exist in the alphabet.
