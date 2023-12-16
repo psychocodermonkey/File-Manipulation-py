@@ -30,8 +30,8 @@ These are the files directly related to or required by fileInsertTest.py
 
     testNotes.md
 
-## File: panagramCheck.py
-Script containing some fun panagrams as well as code to check if strings are panagrams.
+## File: pangramCheck.py
+Script containing some fun pangrams as well as code to check if strings are pangrams.
 
 ### Topics in this file
 #### List comprehension
